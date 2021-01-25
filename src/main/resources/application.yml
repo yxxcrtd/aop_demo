@@ -1,0 +1,8 @@
+server:
+    port: 8080
+
+
+spring:
+    aop:
+        proxy-target-class: true
+        auto: true  # 开启AOP注解
